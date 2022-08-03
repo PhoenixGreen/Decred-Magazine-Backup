@@ -8,7 +8,7 @@ Install new build in an empty folder - https://ghost.org/docs/install/local/
 ## Required Files and Folders after building a local version:
 
 * Content Folder – Has all the images and documents for individual posts and pages
-* decred-magazine....json file – Needs to be imported in the settings area to populate all the posts.
+* decred-magazine....json file – Needs to be imported in the settings area to populate all the posts. This file can be found in the content folder.
 
 * Ghost theme "Headlines" – Needs to be activated in the theme settings area
 
