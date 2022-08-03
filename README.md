@@ -31,5 +31,5 @@ using the build for their own ideas and implementations. Enjoy!
 
 ---
 ## Commands to help install. There seems to be an error with 5.7.1, reverting to 5.7.0 is a better starting point (3 Aug 2022)
-~ npm install ghost-cli@latest -g
-~ ghost install 5.7.0 --local
+* npm install ghost-cli@latest -g
+* ghost install 5.7.0 --local
