@@ -8,7 +8,7 @@ Install new build in an empty folder - https://ghost.org/docs/install/local/
 ## Required Files and Folders after building a local version:
 
 * Content Folder – Has all the images and documents for individual posts and pages
-* decred-magazine....json file – Needs to be imported in the settings area of the Ghost CMS to populate all the posts. This file can be found in the content folder.
+* decred-magazine....json file – Needs to be imported in the settings area to populate all the posts.
 
 * Ghost theme "Headlines" – Needs to be activated in the theme settings area
 
@@ -28,8 +28,3 @@ lose any edits or content you've added.
 
 This backup is predominantly meant for the longevity of the Decred Magazine project, but I have no issues with anyone 
 using the build for their own ideas and implementations. Enjoy!
-
----
-## Commands to help install. There seems to be an error with 5.7.1, reverting to 5.7.0 is a better starting point (3 Aug 2022)
-* npm install ghost-cli@latest -g
-* ghost install 5.7.0 --local

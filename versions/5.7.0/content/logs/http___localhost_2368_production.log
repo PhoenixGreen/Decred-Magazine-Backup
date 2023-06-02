@@ -1,0 +1,18 @@
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":30,"msg":"Ghost is running in production...","time":"2022-08-16T08:17:14.360Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":30,"msg":"Your site is now available on http://localhost:2368/","time":"2022-08-16T08:17:14.363Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":30,"msg":"Ctrl+C to shut down","time":"2022-08-16T08:17:14.365Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":30,"msg":"Ghost server started in 3.38s","time":"2022-08-16T08:17:14.370Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":50,"err":{"id":500,"domain":"http://localhost:2368","code":"ECONNREFUSED","name":"DatabaseError","statusCode":500,"level":"critical","message":"connect ECONNREFUSED 127.0.0.1:3306","help":"\"Unknown database error\"","stack":"Error: connect ECONNREFUSED 127.0.0.1:3306\n    at /Users/kencameron/Documents/GitHub/Ghost_Decred_Mag/versions/5.7.0/node_modules/knex-migrator/lib/database.js:57:19\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)","hideStack":false},"msg":"connect ECONNREFUSED 127.0.0.1:3306","time":"2022-08-16T08:17:15.177Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":40,"msg":"Ghost is shutting down","time":"2022-08-16T08:17:15.179Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":40,"msg":"Ghost has shut down","time":"2022-08-16T08:17:15.181Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":40,"msg":"Your site is now offline","time":"2022-08-16T08:17:15.181Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":685,"level":40,"msg":"Ghost was running for a few seconds","time":"2022-08-16T08:17:15.183Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":30,"msg":"Ghost is running in production...","time":"2022-08-16T08:18:33.084Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":30,"msg":"Your site is now available on http://localhost:2368/","time":"2022-08-16T08:18:33.087Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":30,"msg":"Ctrl+C to shut down","time":"2022-08-16T08:18:33.089Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":30,"msg":"Ghost server started in 0.695s","time":"2022-08-16T08:18:33.101Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":50,"err":{"id":500,"domain":"http://localhost:2368","code":"ECONNREFUSED","name":"DatabaseError","statusCode":500,"level":"critical","message":"connect ECONNREFUSED 127.0.0.1:3306","help":"\"Unknown database error\"","stack":"Error: connect ECONNREFUSED 127.0.0.1:3306\n    at /Users/kencameron/Documents/GitHub/Ghost_Decred_Mag/versions/5.7.0/node_modules/knex-migrator/lib/database.js:57:19\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)","hideStack":false},"msg":"connect ECONNREFUSED 127.0.0.1:3306","time":"2022-08-16T08:18:33.317Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":40,"msg":"Ghost is shutting down","time":"2022-08-16T08:18:33.318Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":40,"msg":"Ghost has shut down","time":"2022-08-16T08:18:33.320Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":40,"msg":"Your site is now offline","time":"2022-08-16T08:18:33.321Z","v":0}
+{"name":"Log","hostname":"Kens-MacBook-Air.local","pid":704,"level":40,"msg":"Ghost was running for a few seconds","time":"2022-08-16T08:18:33.323Z","v":0}
